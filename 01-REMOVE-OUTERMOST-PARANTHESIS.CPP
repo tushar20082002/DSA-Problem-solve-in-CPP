@@ -31,3 +31,8 @@ public:
 
     }
 };
+
+
+
+
+can be solved in queue also
